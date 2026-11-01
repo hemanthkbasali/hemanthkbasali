@@ -1,8 +1,6 @@
 # Hemanth K Basali
 
-Software Engineering Student
-
-Python · Django · FastAPI · React · MySQL
+Computer Science - Cybersecurity Student
 
 ## Projects
 
