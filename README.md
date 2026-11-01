@@ -1,9 +1,9 @@
 # Hemanth K Basali
 
-Computer Science - Cybersecurity Student
+Computer Science - Cybersecurity
 
 ## Projects
 
-- [CodeSentinel](https://github.com/hemanthkbasali/Online-Code-Judge-Platform): online judge platform
+- [CodeSentinel](https://github.com/hemanthkbasali/Online-Code-Judge-Platform): online judge
 - [MediFind](https://github.com/hemanthkbasali/MediFind): pharmacy inventory system
 - [Project Unheard](https://github.com/Mahi-KK/Project-Unheard): civic intelligence tool
